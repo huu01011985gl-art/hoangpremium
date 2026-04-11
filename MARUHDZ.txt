@@ -101,10 +101,10 @@ local v7 = CreateObject("ImageLabel", {
 });
 v4(25, v7);
 local v8 = CreateObject("TextLabel", {
-    Name = "UserName",
+    Name = "conmemay",
     Parent = v6,
     BackgroundTransparency = 1,
-    Text = "TikTok:HDZ",
+    Text = "hoang",
     Position = UDim2.new(0, 75, 0, 10),
     Size = UDim2.new(0, 200, 0, 50),
     Font = Enum.Font.GothamBold,
