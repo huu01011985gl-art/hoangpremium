@@ -3,12 +3,12 @@ local TweenService = game:GetService("TweenService")
 local LocalPlayer = Players.LocalPlayer
 
 -- ╔══════════════════════════════════════════════════════════════════════╗
--- ║     Trade Scam GUI — Easter Egg Update (Pastel Spring Theme)         ║
--- ║               Script By Meow Script                                  ║
+-- ║     Trade Scam GUI — BLOX FRUIT (Pastel Spring Theme)         ║
+-- ║               Script By hoang                                  ║
 -- ╚══════════════════════════════════════════════════════════════════════╝
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "TradeScamGUI_Meow_Easter"
+ScreenGui.Name = "TradeScamGUI_HDZ_bloxfruit"
 ScreenGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
 ScreenGui.ResetOnSpawn = false
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
@@ -63,7 +63,7 @@ local Title = Instance.new("TextLabel")
 Title.Parent = MainFrame
 Title.Size = UDim2.new(1, -20, 0, 22)
 Title.Position = UDim2.new(0, 15, 0, 10)
-Title.Text = "🐰 Trade Scam(Easter Egg Update) 🥚"
+Title.Text = " Trade Scam(BLOX FRUIT ) "
 Title.TextColor3 = Color3.fromRGB(53, 33, 84) 
 Title.BackgroundTransparency = 1
 Title.Font = Enum.Font.GothamBold
@@ -74,7 +74,7 @@ local Sub = Instance.new("TextLabel")
 Sub.Parent = MainFrame
 Sub.Size = UDim2.new(1, -20, 0, 14)
 Sub.Position = UDim2.new(0, 15, 0, 30)
-Sub.Text = "by Meow Script  •  v1.0 (Easter Edition)"
+Sub.Text = "by  hoang  •  v1.0 (BLOXFRUITS Edition)"
 Sub.TextColor3 = Color3.fromRGB(165, 137, 209) 
 Sub.BackgroundTransparency = 1
 Sub.Font = Enum.Font.Gotham
