@@ -21,7 +21,7 @@ OpenToggle.Parent = ScreenGui
 OpenToggle.Size = UDim2.new(0, 50, 0, 50) -- Hình vuông 50x50
 OpenToggle.Position = UDim2.new(0, 15, 0.5, -25) -- Neo tại cạnh trái giữa màn hình
 OpenToggle.BackgroundColor3 = Color3.fromRGB(253, 240, 215) -- Đồng bộ màu Derby nền MainFrame
-OpenToggle.Image = "rbxassetid://91638338049445" -- Icon theo yêu cầu
+OpenToggle.Image = "rbxassetid://102423661438105" -- Icon theo yêu cầu
 OpenToggle.Active = true
 OpenToggle.Draggable = true -- Có thể di chuyển để không che khuất màn hình
 
